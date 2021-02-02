@@ -12,7 +12,9 @@ Simple Flutter project to learn on how using responsive grid in image gallery
 - Run <b> flutter pub get</b> command to install dependecies
 - Run it using <b> flutter run </b>
 
+
 ## Screenshots
 
 <img src="assets/images/screen1.png"></img><br>
 <img src="assets/images/screen2.png"></img>
+

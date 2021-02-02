@@ -53,8 +53,11 @@ flutter:
     - assets/images/ben.PNG
     - assets/images/2.JPG
     - assets/images/1.PNG
+<<<<<<< HEAD
     - assets/images/screen1.png
     - assets/images/screen2.png
+=======
+>>>>>>> 941ca9ab1209b83437df6fcf4c4d3649888d8dc1
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
